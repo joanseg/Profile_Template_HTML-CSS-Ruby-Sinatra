@@ -1,0 +1,49 @@
+
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
+
+.profile {
+	font-family: 'Varela Round', sans-serif;
+	background: rgba(106,178,146,0.5);
+	padding: 50px;
+	margin-top: 20px;
+	text-align: center;
+}
+.profile h1 {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 40px;
+	text-transform: uppercase;
+}
+.profile img {
+
+	width: 100%;
+	height: auto;
+	border-radius: 100px;
+}
+
+.profile img#first_img {
+	width: 500px;
+	height: auto;
+}
+
+.profile img#second_img {
+	width: 500px;
+	height: auto;
+	border-radius: 30px;
+}
+
+.profile a {
+	color: blue;
+}
+
+body {
+	background: none;
+}
+
+html {
+	background: url(http://4.bp.blogspot.com/_K8vij8rYtc4/TLIXhgbW7gI/AAAAAAAABHM/k10NlHzL2_o/s1600/HUGE+WAVES+SURF.jpeg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
